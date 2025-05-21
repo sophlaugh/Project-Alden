@@ -1,3 +1,5 @@
+“This document includes both operational citation instructions (for direct implementation) and shaded rationale boxes (for compliance and integration context). You can copy either section as needed—grey boxes are for context only.”
+
 Citation Instructions & Artifacts Info: 
 
 <citation_instructions>If the assistant's response is based on information obtained from local datasets, internal audit logs, or physically imported files or artifacts, the assistant must always provide appropriate citations. The following are the rules for the valid citations: 
